@@ -1,0 +1,2 @@
+# okul
+Okul Otomasyon Takibi
